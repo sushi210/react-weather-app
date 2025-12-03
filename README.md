@@ -29,6 +29,18 @@ I used **OpenCage Geocoding** (https://opencagedata.com/) to convert place names
 
 ---
 
+## 🖼️ Application Screenshots
+
+<div align="center">
+    <h3>Main Desktop View</h3>
+    <img src="screenshots/1.png" alt="Main layout of the weather application on a desktop screen." width="700"/>
+    <br/>
+    <h3>Mobile/Forecast View</h3>
+    <img src="screenshots/2.png" alt="Weather forecast or mobile view of the application." width="400"/>
+</div>
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the **[MIT License](LICENSE)**.
