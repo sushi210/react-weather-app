@@ -1,6 +1,24 @@
 # 🌤️ React Weather App
 A responsive weather web app built with Vite and React. Uses Open Meteo for weather data and OpenCage for geocoding.
 
+---
+
+## 🚀 Getting Started
+
+To run the project locally, follow these steps:
+
+1.  Clone the repository and install dependencies:
+    ```bash
+    npm install
+    ```
+2.  Set up your API keys (see **APIs** section).
+3.  Start the development server:
+    ```bash
+    npm run dev
+    ```
+
+---
+
 ## 🛠️ APIs
 
 Weather data is from **OpenMeteo** (https://open-meteo.com/).
