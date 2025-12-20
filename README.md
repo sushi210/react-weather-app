@@ -1,7 +1,7 @@
 # 🌤️ React Weather App
 A responsive weather web app built with Vite and React. Uses Open Meteo for weather data and OpenCage for geocoding.
 
-### 🔗 [Live Demo - Visit Teatime](https://react-weather-app-sushi.vercel.app)
+### 🔗 [Live Demo](https://react-weather-app-sushi.vercel.app)
 
 ---
 
